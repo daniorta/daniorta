@@ -16,13 +16,13 @@
 <!--Intro start-->
 <p align="left">
   
-💻 Desarrollador Front-End developer con aprendizaje academico y de manera autodidacta.
-📚 Desarrollador web con Ironhack y técnico en python en la Universidad de san Jorge.
-📝 Tengo un gran interés en el mundo de la tecnología y con el desarrollo web.
-🎓 En constante aprendizaje y mejorando las buenas prácticas.
-🌟 Idiomas principales: JavaScript, Vue.js, HTML, CSS, Python.
-🚩 Interesado en el desarrollo de aplicaciones web y almacenamiento en la nube.
-🎵 Me encanta el Rock, jazz y la música suave.
+💻 Desarrollador Front-End developer con aprendizaje academico y de manera autodidacta.<br>
+📚 Desarrollador web con Ironhack y técnico en python en la Universidad de san Jorge.<br>
+📝 Tengo un gran interés en el mundo de la tecnología y con el desarrollo web.<br>
+🎓 En constante aprendizaje y mejorando las buenas prácticas.<br>
+🌟 Idiomas principales: JavaScript, Vue.js, HTML, CSS, Python.<br>
+🚩 Interesado en el desarrollo de aplicaciones web y almacenamiento en la nube.<br>
+🎵 Me encanta el Rock, jazz y la música suave.<br>
 
 </p>
 <!--Intro end-->

@@ -35,11 +35,39 @@
   </a>
 </p>
 
+<!-------------------------->
 
+<div id="cursos">
+  
+<h2 >Otras formaciones👨🏻‍💻</h2>
+<table align="left" >
+<tr border="none">
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.udemy.com/course/100-proyectos-de-desarrollo-web-con-html-css-y-javascript/?couponCode=ST14MT101024" title="Go to Source">
+        <img align="center" width=100% src="https://gsg-wl.chollometro.com/cupones/images/fit-in/256x/images/u/Udemy_logo.png" alt="Udemy"/>
+     </a>
+  </p>
+  </td>
+</tr>
+</table>
 
+</div>
 
+<!-------------------------->
+<div>
+  
+<p>:octocat: Metricas de Github</p>
 
-<br>
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+  
+</div>
 
 
 </div>

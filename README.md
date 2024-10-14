@@ -45,6 +45,11 @@
           <img width="100%" src="https://gsg-wl.chollometro.com/cupones/images/fit-in/256x/images/u/Udemy_logo.png" alt="Udemy" />
         </a>
       </td>
+      <td width="25%" align="center">
+        <a href="https://www.udemy.com/course/curso-desarrollo-web-html-css-javascript/" title="Go to Source">
+          <img width="100%" src="https://gsg-wl.chollometro.com/cupones/images/fit-in/256x/images/u/Udemy_logo.png" alt="Udemy" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
